@@ -17,11 +17,15 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Divyansh Sharma</h1>
 <h3 align="center">A passionate student from Indian Institute of Technology, Kharagpur</h3>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently proficient with **CAD, Machine Learning,** and **Data Science**
+
+- I'm currently learning **Deep Learning** and **Prompt Engineering**
+
+- 🔭 I'm currently pursuing my Bachelor's from Indian Institute of Technology, Kharagpur
 
 - 📫 How to reach me **div.sh81@gmail.com**
 
-- ⚡ Know more about me at [https://linktr.ee/divyansh__sharma](https://linktr.ee/divyansh__sharma)
+- ⚡ Know more about me by visiting [My Website](https://divyansh-sharma.super.site/)
 
 
 <h3 align="left">Languages and Tools:</h3>
